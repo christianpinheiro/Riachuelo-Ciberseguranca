@@ -1,3 +1,8 @@
+Link do projeto no NotebookLM: https://notebooklm.google.com/notebook/c53f725c-1f59-41a5-bb6f-a6ea8864af17 
+
+
+Sobre o projeto:
+
 📘 Lab Project — Treinamento de IA com Base em Pensamento Econômico
 
 Este repositório documenta o Lab Project desenvolvido para o curso de Cibersegurança da Riachuelo, com foco na aplicação prática de inteligência artificial para organização, análise e síntese de conhecimento especializado.
